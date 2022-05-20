@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @rodrigofarolover
 - 👀 I’m interested in  pensamento computacional
+- 🤠  sou estudante
+- 💞️  amo anime,mangás,animais,sorvete ,casos criminais,Rodrogo Faro e Tamaki
+- 🇧🇷 sou brasileiro
+- 👩‍❤️‍👩 casada com qnq
 <!---
 rodrigofarolover/rodrigofarolover is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
