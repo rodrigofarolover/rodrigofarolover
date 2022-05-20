@@ -1,4 +1,4 @@
-- 👋 bâo?,eu sou @rodrigofarolover
+- 👋 bão?,eu sou @rodrigofarolover
 - 👀 estou interessada em pensamento computacional
 - 🤠 sou estudante
 - 💞️ amo animes,mangás,animais,pranta,sorvete,casos criminais,rock,Rodrigo Faro e Tamaki
