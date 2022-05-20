@@ -3,7 +3,8 @@
 - 🤠 sou estudante
 - 💞️ amo animes,mangás,animais,pranta,sorvete,casos criminais,rock,Rodrigo Faro e Tamaki
 - 🇧🇷 sou brasileiro
-- 👩‍❤️‍👩 casada com qnq
+ ![scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white
+- 
 <!---
 rodrigofarolover/rodrigofarolover is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
