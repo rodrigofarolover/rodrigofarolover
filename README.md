@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rodrigofarolover
-- 👀 I’m interested in  pensamento computacional
-- 🤠  sou estudante
-- 💞️  amo anime,mangás,animais,sorvete,casos criminais,rock,Rodrigo Faro e Tamaki
+- 👋 bâo?,eu sou @rodrigofarolover
+- 👀 estou interessada em pensamento computacional
+- 🤠 sou estudante
+- 💞️ amo animes,mangás,animais,pranta,sorvete,casos criminais,rock,Rodrigo Faro e Tamaki
 - 🇧🇷 sou brasileiro
 - 👩‍❤️‍👩 casada com qnq
 <!---
